@@ -1,2 +1,3 @@
-# org
-Organizational issues and tasks for Rollup
+# Rollup Organization
+
+The repository exists for organizational issues, discussions, and task tracking for Rollup and its ecosystem.
